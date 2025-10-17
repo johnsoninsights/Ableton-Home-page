@@ -1,11 +1,11 @@
 .header{
     display: flex;
     align-items: center;
-    gap: 70px;
+    gap: 200px;
     border: none;
     border-bottom: 2px solid;
     border-color:gray;
-    padding-right: 0;
+    padding-right: 10px;
     padding-left: 20px;
     
 }
@@ -20,6 +20,10 @@
 
 .nav__item a{
     color: black;
+}
+
+.nav__item__trylive a{
+    color: blue;
 }
 .nav__item a:hover{
     color: blue;
