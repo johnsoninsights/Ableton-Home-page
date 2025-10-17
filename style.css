@@ -1,0 +1,27 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: none;
+    border-bottom: 2px solid;
+    border-color:gray
+    
+}
+
+.header__left{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    max-width: ;
+}
+
+
+.header__right__wrapper{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+li{
+    list-style: none;
+}
