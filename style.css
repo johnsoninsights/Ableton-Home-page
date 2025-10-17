@@ -10,11 +10,14 @@
     
 }
 
+.header__logo{
+    color: black;
+}
+
 .header__left{
     display: flex;
     align-items: center;
     gap: 20px;
-    max-width: ;
 }
 
 
