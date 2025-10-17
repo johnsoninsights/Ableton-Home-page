@@ -14,6 +14,14 @@
     color: black;
 }
 
+.nav__item a{
+    color: black;
+}
+
+.header__right__wrapper{
+    color: black;
+}
+
 .header__left{
     display: flex;
     align-items: center;
