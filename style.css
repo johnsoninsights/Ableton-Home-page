@@ -17,6 +17,9 @@
 .nav__item a{
     color: black;
 }
+.nav__item a:hover{
+    color: blue;
+}
 
 .header__right__wrapper{
     color: black;
