@@ -14,6 +14,10 @@
     color: black;
 }
 
+.header__logo:hover{
+    color: blue;
+}
+
 .nav__item a{
     color: black;
 }
