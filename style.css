@@ -54,6 +54,10 @@ li {
   gap: 20px;
 }
 
+a {
+  all: unset;
+}
+
 .body__menue__item__about {
   color: orange;
 }
