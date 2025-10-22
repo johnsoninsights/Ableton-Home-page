@@ -17,6 +17,7 @@
 
 .header__logo:hover {
   color: blue;
+  cursor: pointer;
 }
 
 .nav__item a {
@@ -57,6 +58,7 @@ li {
 
 a {
   all: unset;
+  cursor: pointer;
 }
 
 .body__menue__item__about {
