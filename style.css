@@ -48,3 +48,12 @@
 li {
   list-style: none;
 }
+
+.body__menue__wrapper {
+  display: flex;
+  gap: 20px;
+}
+
+.body__menue__item__about {
+  color: orange;
+}
