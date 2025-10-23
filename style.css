@@ -83,3 +83,7 @@ element.style {
 .body__links {
   color: blue;
 }
+
+.body__text {
+  padding: 100px;
+}
