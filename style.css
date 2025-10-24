@@ -15,6 +15,11 @@
   color: black;
 }
 
+.main-nav__logo__image {
+  width: 100px;
+  height: 35px;
+}
+
 .header__logo:hover {
   color: blue;
   cursor: pointer;
@@ -98,4 +103,11 @@ element.style {
   position: absolute;
   top: 50%;
   left: 50%;
+}
+
+.page-about__header {
+  margin-left: 8.33333vw;
+  margin-right: 8.33333vw;
+  margin-bottom: 8.33333vw;
+  position: relative;
 }
