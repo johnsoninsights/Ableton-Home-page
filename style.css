@@ -89,3 +89,7 @@ element.style {
   font-size: 25px;
   font-weight: 300px;
 }
+
+.about__text {
+  font-size: 20px;
+}
