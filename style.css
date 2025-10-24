@@ -93,3 +93,9 @@ element.style {
 .about__text {
   font-size: 20px;
 }
+
+.page-about__header__ableton-logo {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}
