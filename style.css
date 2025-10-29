@@ -40,7 +40,7 @@
 .header__left {
   display: flex;
   align-items: center;
-  gap: 21px;
+  gap: 20px;
 }
 
 .header__right__wrapper {
