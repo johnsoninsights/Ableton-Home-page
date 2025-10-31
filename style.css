@@ -11,6 +11,15 @@
   font-size: 1.25rem;
 }
 
+.header__right__wrapper {
+  display: flex;
+  gap: 20px;
+}
+
+.nav__item.trylive {
+  padding-left: 200px;
+}
+
 .header__logo {
   color: black;
 }
@@ -29,24 +38,14 @@
   font-weight: bold;
 }
 
-.nav__item__trylive a {
+.nav__item trylive a {
   color: blue;
-}
-
-.header__right__wrapper {
-  color: black;
 }
 
 .header__left {
   display: flex;
   align-items: center;
   gap: 20px;
-}
-
-.header__right__wrapper {
-  display: flex;
-  gap: 35px;
-  align-items: center;
 }
 
 li {
