@@ -16,8 +16,13 @@
   gap: 20px;
 }
 
+.nav__item.more {
+  color: orange;
+}
+
 .nav__item.trylive {
   padding-left: 200px;
+  text-decoration: underline;
 }
 
 .header__logo {
