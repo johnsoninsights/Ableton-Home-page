@@ -13,7 +13,7 @@
 
 .header__right__wrapper {
   display: flex;
-  gap: 21px;
+  gap: 20px;
 }
 
 .nav__item.more {
